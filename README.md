@@ -2,13 +2,13 @@
 
 👨‍🎓 Recent Graduate Concorida University Web Development Bootcamp
 
-👨‍🎨 former Graphic Designer
+👨‍🎨 Former Graphic Designer 📐🎨
 
 🦕 Dinosaur Lover 🦖☄️💔
 
-🔭 currently working on a new website for Darsoon startup (old website: https://www.darsoon.com/)
+🔭 Currently working on a new website for Darsoon startup (old website: https://www.darsoon.com/)
 
-🌱 learning Next.js
+🌱 Learning Next.js
 
 👀 Looking for new opportunities in web dev
 
