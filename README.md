@@ -6,7 +6,7 @@
 
 🦕 Dinosaur Lover 🦖☄️💔
 
-🔭 Currently working on a new website for Darsoon startup (old website: https://www.darsoon.com/)
+⚒️ Currently working on a new website for Darsoon startup (old website: https://www.darsoon.com/)
 
 🌱 Learning Next.js
 
