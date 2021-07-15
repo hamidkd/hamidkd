@@ -10,6 +10,6 @@
 
 🌱 Learning Next.js
 
-👀 Looking for new opportunities in web dev
+👀 Looking for new opportunities in Web Development
 
 📫 hmkeshmiri@gmail.com
